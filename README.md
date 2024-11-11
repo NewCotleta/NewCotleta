@@ -1,7 +1,4 @@
-- Hi, I’m NewCotleta
-- I’m interested in gaming
-- I’m currently learning physics, comp. science and maths A-level
-- Reach me throung Discord: Dehaka#1054
+- Hi, I’m Veronika P
 
 <!---
 NewCotleta/NewCotleta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
